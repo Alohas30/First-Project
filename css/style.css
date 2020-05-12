@@ -1,0 +1,51 @@
+html {
+  scroll-behavior: smooth;
+}
+body{
+  background-color: whitesmoke;
+}
+.top-img {
+    color: white;
+    background-image: url("https://images.unsplash.com/photo-1536697246787-1f7ae568d89a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80");
+    filter: grayscale(70%);
+    background-size: cover;
+    background-position:  center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    
+  }
+a:hover{
+    transition: all 0.5s;
+  }
+  img {
+    filter: grayscale(70%);
+  }
+  p{
+      font-weight: 100;
+      color: gray;
+      
+  }
+  h3{
+      font-weight: 100;
+  }
+  .Portfolio{
+    background-color: rgb(230, 230, 230);
+  }
+  
+  footer{
+    background-color: rgb(230, 230, 230);
+  }
+  nav{
+    background-color:rgb(230, 230, 230, 0.3) ;
+  }
+.d-block{
+  color: gray;
+}
+.scroll {
+  background-color: rgb(230, 230, 230);
+  transition: all 0.5s;
+ 
+}
+
+
